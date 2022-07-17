@@ -49,7 +49,7 @@ NDVI=（NIR-RED）/（NIR+RED）
 影像预处理，需要用合肥的边界对影像切割一下，文件在image下的“安徽省合肥市.geojson”里，最好是切割成矩形（因为矩阵长和宽是固定的）
 
 运行mainprogram.py, 出现界面如下图：
- 
+![mainprogram](./image/mainprogram.png) 
 
 按规定选取已经截取好的波段4，5图片(在文件夹image下，名字为：Clip年份_波段数.tif, 例：Clip2015_band4)
  
